@@ -1,4 +1,4 @@
-The ML project aims to predict students' dropout and academic success using the dataset available at the UCI Machine Learning Repository. 
+The ML project aims to predict students' dropout and academic success. 
 The dataset, titled "Predict Students' Dropout and Academic Success," provides a comprehensive collection of attributes related to students' demographic information, academic performance, 
 and various other factors that may influence their educational outcomes.
 
